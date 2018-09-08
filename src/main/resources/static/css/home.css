@@ -1,0 +1,33 @@
+.user-info
+{
+	width:25%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.user-info input
+{
+	width:80%;
+	margin: 0 auto;
+}
+
+.user-info select
+{
+	width:80%;
+	margin: 0 auto;
+}
+
+.user-info button
+{
+	display:block;
+	background-color: grey;
+	color: white;
+	border: none;
+	width: 20%;
+	margin: 3% auto;
+}
+
+.user-info button:hover
+{
+	cursor:pointer;
+}
